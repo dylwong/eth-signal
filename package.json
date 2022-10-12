@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "simple-peer": "^9.1.2",
-    "truffle-hdwallet-provider": "git+https://github.com/zapproject/truffle-hdwallet-provider.git",
+    "truffle-hdwallet-provider": "https://github.com/zapproject/truffle-hdwallet-provider.git",
     "wrtc": "^0.1.6"
   }
 }
